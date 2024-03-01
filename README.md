@@ -1,7 +1,7 @@
 # Owner-avatar-Find-websites-user-Credentials-by-Havij-attach-Screenshot-link-user-credential
 
 websites with user Credentials by Havij (attach Screenshot , link & user credentials)
-https://controlc.com/927dc5b8
+
 
 php?id= site:
 
